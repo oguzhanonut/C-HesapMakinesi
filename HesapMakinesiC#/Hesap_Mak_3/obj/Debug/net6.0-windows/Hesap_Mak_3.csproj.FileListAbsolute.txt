@@ -1,0 +1,34 @@
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.exe
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.Form1.resources
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\refint\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\ref\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.exe
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\bin\Debug\net6.0-windows\Hesap_Mak_3.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.Form1.resources
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\refint\Hesap_Mak_3.dll
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\Hesap_Mak_3.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\c# genel\okul c#\Hesap_Mak_3\Hesap_Mak_3\obj\Debug\net6.0-windows\ref\Hesap_Mak_3.dll
